@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AJ-1009
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning app development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gargashwin9@gmail.com
 
